@@ -65,7 +65,7 @@ A healthcare-focused software prototype designed to monitor patient vital parame
 - Multi-parameter assessment.
 - Intelligent alert prioritization.
 
-<badge color="success">Prototype Ready</badge> <badge color="secondary">Repository Coming Soon</badge>
+<badge color="success">Prototype Ready</badge> <badge color="secondary">Repo:https://github.com/Ppsprabal/VitaSentinel.git</badge>
 
 ---
 
